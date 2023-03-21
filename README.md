@@ -1,4 +1,4 @@
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hyun Bin Yim.
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Arthur Pate.
 ====================================================================================================================================
 
 Software Engineer
@@ -8,8 +8,8 @@ Software Engineer and leader who is creative and logical in my approach to under
 
 
 * 🌍  I'm based out of Seattle, WA
-* ✉️  You can contact me at [hby0818@gmail.com](mailto:hby0818@gmail.com)
-* 🚀  I'm currently working on [Sportify](http://swish-sesh.herokuapp.com/)
+* ✉️  You can contact me at [arthurpate42@gmail.com](mailto:arthurpate42@gmail.com)
+* 🚀  I'm currently working on [Sportify]()
 * 🧠  I'm learning Python 
 * 🤝  I'm open to collaborating on any type of project
 
