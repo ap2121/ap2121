@@ -15,7 +15,7 @@ Software Engineer and leader who is creative and logical in my approach to under
 
 ### Skills
 
-i=js,html,css,py,flask,react,vue,tailwind,nodejs,express,mongodb,postgres,sequelize,vscode,heroku,figma)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,flask,react,vue,tailwind,nodejs,express,mongodb,postgres,sequelize,vscode,heroku,figma)](https://skillicons.dev)
 
 ### Socials
 
